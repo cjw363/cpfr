@@ -21,7 +21,7 @@
 		<!-- 编译时的编码 -->
 		<maven.compiler.encoding>UTF-8</maven.compiler.encoding>
 		<!-- spring security版本号 -->
-		<spring.security.version>5.0.2.RELEASE</spring.security.version>
+		<spring.security.version>5.5.7</spring.security.version>
 		<!-- spring版本号 -->
 		<spring.version>5.0.2.RELEASE</spring.version>
 		<!-- mybatis版本号 -->
